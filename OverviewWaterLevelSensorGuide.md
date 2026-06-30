@@ -1,9 +1,7 @@
 # Overview Water Level Sensor Guide 
-This will become an overview document, but is also a test document right now using the NERACOOS Water Level Sensor Guide 
-## Intro / Overview
-Version 1 - Updated 2/16/25 Anna Simpson 
+Overview document that will give overall picture for the documentation that exists for water level staitons and link out to additional SOPs that are developed 
 
-This document combines all the different pieces of getting water level data into NERACOOS. This includes documentation and summaries from the site selection phase through the data publicly available phase. This is to provide a consistent framework for installing sensors and providing data to end users and providing clarity, transparency, and expectations to current and future data providers. There are 3 main components to this process: Site suggestion, planning phase and installation, active station.
+This document gives and overview for the process . This includes documentation and summaries from the site selection phase through the data publicly available phase. This is to provide a consistent framework for installing sensors and providing data to end users and providing clarity, transparency, and expectations to current and future data providers. There are 3 main components to this process: Site suggestion, planning phase and installation, active station.
 
 ## Phase Overview
 
